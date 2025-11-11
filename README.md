@@ -1,4 +1,4 @@
-Algorithm study repository
+##Algorithm study repository
 Data structures (Queue, Stack, Deque, String, Set)
 Greedy
 Implementation
